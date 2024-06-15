@@ -1,0 +1,6 @@
+@FamilyManagement.API_HostAddress = http://localhost:5101
+
+GET {{FamilyManagement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
